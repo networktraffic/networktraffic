@@ -1,3 +1,3 @@
-discord: `network#2288 - 828205199725690910`
+discord id: `828205199725690910`
 
 ethereum address: `0x8312C139E6E67FB19A64be28DE36B3170cc7e186`
